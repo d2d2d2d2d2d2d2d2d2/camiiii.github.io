@@ -12,7 +12,7 @@ $( document ).ready(function() {
         
         setTimeout(function() {
             window.location.href = 'Carta.html';
-          }, 2000);
+          }, 1000);
     });
 
     function open() {
