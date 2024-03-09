@@ -12,6 +12,16 @@
     align-items: center;
 }
 
+.letra2{
+    height:60px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    position: relative; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .wrapper {
     height: 350px;
     width: 300px;
